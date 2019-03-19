@@ -1,2 +1,6 @@
 name: amandamiotto
 markdown kramdown
+
+
+plugins:
+- jekyll-toc 
