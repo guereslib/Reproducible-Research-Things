@@ -3,4 +3,6 @@ markdown: kramdown
 
 
 plugins:
-- jekyll-toc 
+- jekyll-toc
+- jekyll-gist
+
