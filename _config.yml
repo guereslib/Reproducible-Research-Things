@@ -1,5 +1,5 @@
 name: amandamiotto
-markdown kramdown
+markdown: kramdown
 
 
 plugins:
