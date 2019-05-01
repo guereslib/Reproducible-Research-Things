@@ -1,6 +1,6 @@
 name: amandamiotto
 markdown: kramdown
-theme: slate
+theme: hacker
 
 plugins:
 - jekyll-toc
