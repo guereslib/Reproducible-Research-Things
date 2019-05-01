@@ -6,3 +6,5 @@ plugins:
 - jekyll-toc
 - jekyll-gist
 
+
+theme: jekyll-theme-slate
