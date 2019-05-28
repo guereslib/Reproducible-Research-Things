@@ -30,8 +30,6 @@ Q3) Someone has published contradicting results to your published paper, and you
 * Versions of software
 * Keep raw data separate (Research Storage – Vault)
 
-This is happening currently in local institutes - https://www.brisbanetimes.com.au/politics/queensland/queensland-universities-eyed-in-fraud-probe-20190509-p51lrj.html
-
 
 Q4) if a research partner organization believes your "sensitive" data has been made available to others (ie a data breach). Could you show that steps were taken to avoid this or show that it couldn't happen?
 
