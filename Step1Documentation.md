@@ -8,13 +8,14 @@ Ideally you want to document anything that a lab member coming on board would ne
 
 Documentation will also be important for any audits in your lab or if someone would like to reproduce your research.
 
-| Beginner | Start with documenting in a text file the following |
+| level | explan |
+|--------|-------------------------------------|
+| Beginner | Start with documenting in a text file the following 
 * Where files are stored 
 * Any safety documentation 
 * Where lab protocols, code or workflow information is stored or what programs you use to create your working files 
 * where the raw data was originally from 
 Have this document automatically synced to the cloud
-
 | Intermediate | Once you have the basics in place, go into detail on how your workflow goes from your raw data to the finished results. This can be anything from a downloaded function list from SPSS/Virtual Lab to code used to create it. |
 | Advanced | Now that you've got a good basis, time to learn about Git Repositories and wikis.  |
 
