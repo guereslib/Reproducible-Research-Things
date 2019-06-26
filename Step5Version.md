@@ -18,7 +18,7 @@ Write down the versions of analysis software (like SPSS or NVIVO etc) AND hardwa
 If you are using random numbers in your research, save your random seed generator number as part of your working data. This way, you can later reproduce your results.
 
 Beginner | Copy your raw data to a cloud storage solution such as Research Vault for safe keeping. |
-Intermediate | If you are using a workflow program (pipeline pilot, KNIME, a virtual lab like [EcoCloud](https://ecocloud.org.au/) or [TINKER Humanities,Arts and Social Science Virtual Lab](https://tinker.edu.au/)), you can copy your workflow and save it as part of your documentation. Write the date that you ran the workflow if versions of the software are not available. |
+Intermediate | If you are using a workflow program (Galaxy, KNIME, a virtual lab like [EcoCloud](https://ecocloud.org.au/) or [TINKER Humanities,Arts and Social Science Virtual Lab](https://tinker.edu.au/)), you can copy your workflow and save it as part of your documentation. Write the date that you ran the workflow if versions of the software are not available. |
 Advanced | <br/> If you are writing scripts (R/Python/Matlab etc), use Git. Griffith has a gitlab version you can use for private repositories. Also record the version of R/Python/Matlab, the operating system you are using and the version numbers of any library you are using.<br/>
 If you are using the HPC, also record the version of any modules you used there. |
 SUPER Advances | If you’ve heard of Docker or Singularity and you are interested, come talk to hacky hour/eResearch Services|
