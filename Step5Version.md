@@ -9,7 +9,7 @@ Make sure you have a copy of every step you have completed and if possible, vers
 
 Instead, make a copy of the raw data files and keep them somewhere safe (like [Research Vault](https://research-storage.griffith.edu.au/)). That way, if you need to redo your work or you find an error earlier in your workflow, you have an original baseline to start from.
 
-### Step 5.2
+### Step 5.2 - Write down versions of analysis software
 
 Write down the versions of analysis software (like SPSS or NVIVO etc) AND hardware (MRI machines etc). Your documentation is a great place for this, but even just in your lab notebook will work.
 
