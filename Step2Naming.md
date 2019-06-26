@@ -7,7 +7,7 @@ Advanced | Do you have a policy in your team around naming conventions? If not, 
 
 
 ### Internal Resources
-* item1
+* Talk to your data librarian for help on this
 
 ### External Resources
-* item2
+* [File naming and folder conventions by CESSDA ERIC](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/2.-Organise-Document/File-naming-and-folder-structure)
