@@ -1,8 +1,8 @@
-# Digital Object Identifier (DOI) and Persisent indentifier (PiD)  
+# Digital Object Identifier (DOI) and Persistent identifier (PiD)  
 
-## Once you've completed your project, help make your research data discoverable, accessible and possibly reuseable using a DOI! 
+## Once you've completed your project, help make your research data discoverable, accessible and possibly re-useable using a DOI! 
 
-A Digital Object Identifier (DOI) is an unique alphanumeric string assigned by either a pubisher, organisation or agency that identifies content and provides a persistent link to its location on the internet, whether the object is digital or physical. This is why DOIs are considered a type of persistent identifers (PiDs).  Journal publishers assign DOIs to electronic copies of individual articles.   DOIs can also be assigned by an orangisation, research institutes or agencies and are generally managed by the relevant organisation and relevant  policies
+A Digital Object Identifier (DOI) is a unique alphanumeric string assigned by either a publisher, organisation or agency that identifies content and provides a PERSISTENT link to its location on the internet, whether the object is digital or physical. This is why DOIs are considered a type of persistent identifiers (PiDs).  Journal publishers assign DOIs to electronic copies of individual articles.   DOIs can also be assigned by an organisation, research institutes or agencies and are generally managed by the relevant organisation and relevant policies
 ### Key messages:
 * DOIs can be created for DATA SETS and associated outputs (eg grey literature, workflows, algorithms, software etc) - DOIs for data are equivalent with DOIs for other scholarly publications
 * DOIs enable accurate data citation and bibliometrics (both metrics and altmetrics)
