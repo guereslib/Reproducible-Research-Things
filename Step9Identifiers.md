@@ -1,4 +1,4 @@
-# Using DOIs and ORCID Ids to promote 
+# Persistent Identifier (PID) or Digital Object Identifiers (DOI)  
 
 ## Help people identify you and your work by using ORCID Id's and DOI's for your research work.
 
