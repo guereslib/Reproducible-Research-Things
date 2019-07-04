@@ -14,7 +14,7 @@ Intermediate | Ensure that your data has corresponding metadata to explain your 
 Advanced | Let's get everything polished |
 
 #### Internal Resources
-* item1
+*Contact the Library Technology Services Team at digitalrepository@griffith.edu.au for advice on how to obtain a DOI 
 
 ##### External Resources
 * Being Findable is the first step of the FAIR principles of ANDS/ARDC https://www.ands.org.au/working-with-data/fairdata
