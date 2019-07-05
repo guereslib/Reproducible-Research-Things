@@ -11,14 +11,19 @@ A File Naming Convention (FNC) is a framework or protocol if you like for naming
 Naming files consistently, logically and in a predictable manner will prevent against unorganised files, misplaced or lost data.  It could also prevent possible backlogs or project delays.  A file naming convention will ensure files are:
 
 #### * Easier to proces - All team members won't have to over think the file naming process 
-#### * Easier to facilitate storage and retrieval of files
+#### * Easier to facilitate access, retrieval and storage of files
 #### * Easier to browse throough files saving time and effort 
 #### * Harder to lose!
 #### * Having logical and known naming conventions in place can also help you with version control (See step 5 Version Control for more information).
+#### * Check for obsolete or duplicate records
 
 The University of Edinburgh has a comprehensive and easy to follow list (with examples and explanations) of 13 Rules for file naming conventions  https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions
 
 ### Coming up with a plan for your team on how to name files.
+
+Some characters may have special meaning to the operating system so avoid using these characters when you are naming files. These characters include the following: / \ " ' * ; - ? [ ] ( ) ~ ! $ { } &lt > # @ & | space tab newline https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/filename_conv.htm
+
+ 
 
 Beginner | Let's look at some easy naming convention for your data files and documents. Any dates are best stored with YYYY-MM-DD. Try to avoid spaces in your file names |
 Advanced | Do you have a policy in your team around naming conventions? If not, this is a great way of getting everyone on the same page |
