@@ -11,5 +11,6 @@ Advanced | Let's get everything polished |
 
 ### External Resources
 * ANDS' De-identification Guide collates a selection of Australian and international practical guidelines and resources on how to de-identify datasets. It is intended for those who own a dataset and want to de-identify it for the purpose of sharing or publishing the data. https://www.ands.org.au/__data/assets/pdf_file/0003/737211/De-identification.pdf 
-#### add CC By citation This work is licensed under a Creative Commons Attribution 4.0 International License. You are free to reuse and republish this work, or any part of it, with attribution to the Australian National Data Service (ANDS).
+
 * Watch this 4 min video .....
+#### Australian National Data Service. (2018). ANDS guide: De-identification.  Retrieved from https://www.ands.org.au/__data/assets/pdf_file/0003/737211/De-identification.pdf
