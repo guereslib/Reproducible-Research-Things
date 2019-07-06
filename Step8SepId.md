@@ -1,6 +1,9 @@
 # Step 8 - Separating identifying variables from your data
 
-When dealing with sensitive data, its really important to separate any identifiable variables from the rest of the data. Any identifiers should be stored in a completely separate place to the rest of your data. For example, if you are a Griffith Researcher, your data can reside in Research Drive, and you can store your identifiers in Research Space.   Research Drive and Research Space are separate cloud solutions that  meet the safety, ethical and funding agency requirements for health and medical, cultural and senstive data including spatial location of mineral or archaeological findings or endangered species.   
+When dealing with healt and medical, cultural and sensitive data including spatial location of mineral or archaeological findings or endangered species, its really important to separate any identifiable variables from the rest of the data. Any identifiers should be stored in a completely separate place to the rest of your data. For example, if you are a Griffith Researcher, your data can reside in Research Drive, and you can store your identifiers in Research Space.   Research Drive and Research Space are separate cloud solutions that meet the safety, ethical and funding agency requirements.    
+
+### Australian Privavy Act and sharing of de-identified data
+According to the Australian Privacy Act 1988, "personal information is de-identified if the information is no longer about an identifiable individual or an individual who is reasonaly identifiable".  De-identified infromaion is no longer considered personal information and therefore, can be shared. https://www.legislation.gov.au/Details/C2016C00979
 
 Beginner | Here's a good place to start |
 Intermediate | Let's get into it |
