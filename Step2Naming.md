@@ -15,9 +15,10 @@ Naming files consistently, logically and in a predictable manner will prevent ag
 #### * Easier to facilitate access, retrieval and storage of files
 #### * Easier to browse throough files saving time and effort 
 #### * Harder to lose!
+---
 #### * Having logical and known naming conventions in place can also help you with version control (See step 5 Version Control for more information).
 #### * Check for obsolete or duplicate records
-
+---
 The University of Edinburgh has a comprehensive and easy to follow list (with examples and explanations) of 13 Rules for file naming conventions  https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions
 ---
 ### Coming up with a plan for your team on how to name files.
