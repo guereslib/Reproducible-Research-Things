@@ -9,9 +9,8 @@ template: invert
 ---
 ---?include=Step1Documentation/PITCHME.md
 ---
-{% include_relative Step1Documentation.md %}
----
----?include=Step1Documentation.md&lang=md
+test2
+---?include=Step1Documentation.md
 
 ---?includerelative=Step1Documentation.md&lang=md
 ---?include_relative=Step1Documentation.md&lang=md
