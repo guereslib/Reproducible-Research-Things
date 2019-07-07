@@ -24,8 +24,8 @@ Could you keep running effectively for 1 month?
 1 year?
 ---
 test
----?include=Step1Documentation.md
-@[1]
+---?code=Step1Documentation.md
+@[1-3]
 ---
 test
 ---
