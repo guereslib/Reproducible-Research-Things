@@ -125,7 +125,9 @@ Let's look at a few tools we can use to protect our research:
 
 ---?include=Step8SepId.md
 --- 
-### Check us out! Our data and research is looking amazing!
+### So now we have some new skills up our sleeve
+### If our laptop goes missing, we are better prepared
+
 ---
 Now let's look at after a project has finished
 
