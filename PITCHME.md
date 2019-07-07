@@ -22,7 +22,7 @@ template: invert
 ---
 
 Lets include
-{% include_relative Step1Documentation.md %}
+@code[c zoom-21](Step1Documentation.md)
 
 ---
 Thanks
