@@ -6,7 +6,7 @@ template: invert
 
 
 ## Reproducible Research
-### 
+
 #### @AmandaMiottoGU and @JulieToohey
 #### Griffith University
 ---
