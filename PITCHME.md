@@ -27,6 +27,6 @@ Lets include
 @code[c zoom-99](Step1Documentation.md)
 ---
 ---?code=Step1Documentation.md
-@[1-60]
+@[1-5]
 ---
 Thanks
