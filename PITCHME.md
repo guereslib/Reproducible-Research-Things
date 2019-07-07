@@ -22,7 +22,7 @@ template: invert
 
 
 Lets include
-@code[c zoom-21](Step1Documentation.md)
+@code[c zoom-5](Step1Documentation.md)
 ---
 @code[c zoom-99](Step1Documentation.md)
 ---
