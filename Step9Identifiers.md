@@ -3,12 +3,12 @@
 ---
 ## Once you've completed your project, help make your research data discoverable, accessible and possibly re-useable using a PiD such as a DOI!
 ---
-A Digital Object Identifier (DOI) is a unique alphanumeric string assigned by either a publisher, organisation or agency that identifies content and provides a PERSISTENT link to its location on the internet, whether the object is digital or physical. It might look something like this http://dx.doi.org/10.4225/01/4F8E15A1B4D89 The DOI or the *Identifier* is listed at the bottom of this record from Griffiths' Research Data Repository.
-
+A Digital Object Identifier (DOI) is a unique alphanumeric string assigned by either a publisher, organisation or agency that identifies content and provides a PERSISTENT link to its location on the internet, whether the object is digital or physical. It might look something like this http://dx.doi.org/10.4225/01/4F8E15A1B4D89. The DOI or the *Identifier* is listed at the bottom of this record from Griffiths' Research Data Repository.
+---
 DOIs are also considered a type of *persistent identifiers* (PiDs). An identifier is any label used to name some thing uniquely (whether digital or physical).  URLs are an example of an identifier. So are serial numbers, and personal names. A persistent identifier is guaranteed to be managed and kept up to date over a defined time period. 
-
+---
 Journal publishers assign DOIs to electronic copies of individual articles. DOIs can also be assigned by an organisation, research institutes or agencies and are generally managed by the relevant organisation and relevant policies. DOIs not only uniquely identify research data collections, it also supports citation and citation metrics.
-
+---
 ## Key messages:
 * DOIs are a persistent identifier and as such carry expectations of curation, persistent access and rich metadata
 * DOIs can be created for DATA SETS and associated outputs (eg grey literature, workflows, algorithms, software etc) - DOIs for data are equivalent with DOIs for other scholarly publications
