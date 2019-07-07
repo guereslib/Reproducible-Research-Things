@@ -10,6 +10,11 @@ template: invert
 {% include_relative Step1Documentation.md %}
 ---
 ---?include=Step1Documentation.md&lang=md
+
+---?includerelative=Step1Documentation.md&lang=md
+---?include_relative=Step1Documentation.md&lang=md
+---?relative=Step1Documentation.md&lang=md
+
 ---
 ---?markdown=Step1Documentation.md&lang=md
 
