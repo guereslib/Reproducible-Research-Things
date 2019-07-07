@@ -44,7 +44,7 @@ Could you keep running effectively for 1 month?
 
 ---
 Let's look at a few tools we can use to protect our research:
-* Documentation
+### Documentation
 * Naming Conventions
 * Folder Structures
 * Automation
