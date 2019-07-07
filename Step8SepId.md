@@ -8,8 +8,10 @@ Any identifiers (name, date of birth, address or geospatial locations etc) shoul
 
 *Re-identifing* an individual is possible by recombining the de-indentifiable data set and the identifiers.  
 
-## Australian practical guidance for de-identification
-• The Australian Government’s Office of the Australian Information Commissioner (OAIC) and CSIRO Data61 have a ‘De-identification Decision Making Framework’, which is a “practical guide to de-identification, focussing on operational advice”.
+Australian Research Data Commons (ARDC) formerly know as Australian National Data Service (ANDS) released a fabulous guide on De-indentification.  The De-identification guide is intended for reserachers who *own* a data set and wish to share safely with fellow researchers or for publishing of data. The guide can be located here https://www.ands.org.au/working-with-data/sensitive-data/de-identifying-data  
+
+## Australian practical guidance for De-identification (ARDC)
+• The Australian Government’s Office of the Australian Information Commissioner (OAIC) and CSIRO Data61 have released a ‘De-identification Decision Making Framework’, which is a “practical guide to de-identification, focussing on operational advice”.  The guide will assist organisations that handle personal informaton to de-identify their data effectively. 
 • The OAIC also provides high-level guidance on de-identification of data and information, outlining what de-identification is, and how it can be achieved.
 • The Australian Government’s guidelines for the disclosure of health information, includes techniques for making a data set non-identifiable and example case studies.
 • Australian National Statistical Service’s information on confidentiality and how to confidentialise data • Australian Bureau of Statistics’ National Statistical Service Handbook. Chapter 11 contains a summary of methods to maintain privacy. • Australian Bureau of Statistics’ A good practice guide to sharing your data with others
