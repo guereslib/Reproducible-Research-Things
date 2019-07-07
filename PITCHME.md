@@ -19,7 +19,7 @@ template: invert
 ---
 ### What if a key person from your lab disappeared one day (family or personal emergency, no longer contactable)?
 
-+++
+---
 Could you all continue your work? 
 
 Would you know where all your data is stored? 
@@ -28,4 +28,32 @@ Could you keep running effectively for 1 month?
 
 1 year?
 
+---
+Let's look at a few tools we can use to protect our research:
+* Documentation
+* Naming Conventions
+* Folder Structures
+* Automation
+
 ---?include=Step1Documentation.md
+Let's look at a few tools we can use to protect our research:
+* Documentation
+### * Naming Conventions
+* Folder Structures
+* Automation
+---?include=Step2Naming.md
+--- 
+Let's look at a few tools we can use to protect our research:
+* Documentation
+* Naming Conventions
+### * Folder Structures
+* Automation
+
+--- 
+Let's look at a few tools we can use to protect our research:
+* Documentation
+* Naming Conventions
+* Folder Structures
+### * Automation
+
+--- 
