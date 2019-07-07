@@ -6,13 +6,28 @@ template: invert
 
 
 ## Reproducible Research
-### Julie Toohey and Amanda Miotto
-#### @JulieToohey and @AmandaMiottoGU
+### 
+#### @AmandaMiottoGU and @JulieToohey
 #### Griffith University
 ---
 ### What is Reproducible Research?
 ---
 ### Why is it Important?
+---
+
+Reflections by authors who had discovered they had made a mistake:
+https://dynamicecology.wordpress.com/2016/12/02/on-finding-errors-in-ones-published-analyses/
+http://ecoevoevoeco.blogspot.com/2016/12/wrong-lot.html
+
+
+Retracted Image analysis paper
+https://retractionwatch.com/2013/08/26/when-1-equals-2-the-result-is-a-retraction/
+
+Where a cancer study was withdrawn by the Authors because they had lost the original data https://retractionwatch.com/2016/09/19/author-to-retract-2016-cancer-study-because-of-missing-data/
+
+It happens locally too:
+https://www.brisbanetimes.com.au/politics/queensland/queensland-universities-eyed-in-fraud-probe-20190509-p51lrj.html
+
 ---
 
 ### Let's look at some scenerios....
@@ -142,6 +157,7 @@ Turns out, we can!
 * Separating identified variables (Step 8- Deidentifying your data)
 ---
 Amazing! We have so many new skills!
-
+---
+What changes are you going to make?
 ---
 Thank you for coming!
