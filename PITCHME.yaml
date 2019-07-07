@@ -17,8 +17,8 @@ theme-override: assets/css/PITCHME.css
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : assets/img/logo.png
-logo-position : top-left
+#logo : assets/img/logo.png
+#logo-position : top-left
 
 #
 # Layout Setting
@@ -44,4 +44,4 @@ published : true
 #
 title : "Reprod Research"
 description : "testing out Gitpitch for Reprod Research"
-thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
+#thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
