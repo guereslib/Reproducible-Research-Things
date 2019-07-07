@@ -7,6 +7,8 @@ template: invert
 
 # test
 ---
+---?include=Step1Documentation/PITCHME.md
+---
 {% include_relative Step1Documentation.md %}
 ---
 ---?include=Step1Documentation.md&lang=md
