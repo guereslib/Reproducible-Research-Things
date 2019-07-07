@@ -21,7 +21,7 @@ Any identifiers (name, date of birth, address or geospatial locations etc) shoul
 • Office of the Information Commissioner Queensland’s guidance on de-identification techniques https://www.oic.qld.gov.au/guidelines/for-government/guidelines-privacy-principles/applying-the-privacy-principles/privacy-and-de-identification
 
 ## Tips for managing de-identificatioin (ARDC)
-* Tips for managing de-identification:
+
 • Plan de-identification early in the research as part of your data management planning
 • Retain original unedited versions of data for use within the research team and for preservation
 • Create a de-identification log of all replacements, aggregations or removals made
