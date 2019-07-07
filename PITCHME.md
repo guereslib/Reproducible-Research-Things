@@ -10,5 +10,17 @@ template: invert
 #### @JulieToohey and @AmandaMiottoGU
 #### Griffith University
 ---
-test2
+What is Reproducible Research?
+---
+Why is it Important?
+---
+
+Let's look at some scenerios....
+---
+### What if a key person from your lab disappeared one day (family or personal emergency, no longer contactable)? 
+Could you all continue your work? 
+Would you know where all your data is stored? 
+Could you keep running effectively for 1 month? 
+1 year?
+
 ---?include=Step1Documentation.md
