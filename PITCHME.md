@@ -39,7 +39,7 @@ Let's look at a few tools we can use to protect our research:
 ---
 Let's look at a few tools we can use to protect our research:
 * Documentation
-### * Naming Conventions
+### Naming Conventions
 * Folder Structures
 * Automation
 ---?include=Step2Naming.md
@@ -47,14 +47,16 @@ Let's look at a few tools we can use to protect our research:
 Let's look at a few tools we can use to protect our research:
 * Documentation
 * Naming Conventions
-### * Folder Structures
+### Folder Structures
 * Automation
 
---- 
+---?include=Step3FolderStruct.md
+---
 Let's look at a few tools we can use to protect our research:
 * Documentation
 * Naming Conventions
 * Folder Structures
-### * Automation
+### Automation
 
---- 
+---?include=Step4Automation.md
+---
