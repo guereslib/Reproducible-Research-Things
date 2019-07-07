@@ -22,10 +22,5 @@ Could you all continue your work?
 Would you know where all your data is stored? 
 Could you keep running effectively for 1 month? 
 1 year?
----
-test
----?include=Step1Documentation.md@[1-3]
----
-test
----
+
 ---?include=Step1Documentation.md
