@@ -1,5 +1,5 @@
 ### Step 9
-# Digital Object Identifier (DOI) and Persistent identifier (PiD)  
+## Digital Object Identifier (DOI) and Persistent identifier (PiD)  
 ---
 ## Once you've completed your project, help make your research data discoverable, accessible and possibly re-useable using a PiD such as a DOI!
 ---
