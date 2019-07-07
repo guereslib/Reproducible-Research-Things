@@ -1,5 +1,7 @@
 # Step 8 - Separating identifying variables from your data
 
+Sensitive data are data that can be used to identify an individual, species, object, or location that introduces a risk of discrimination, harm, or unwanted attention. Major, familiar categories of sensitive data are: personal data - health and medical data - ecological data that may place vulnerable species at risk.
+
 Separating or de-identifying your data generally occurs to protect an indiviuals privacy.  According to the Australian Privacy Act 1988, "personal information is de-identified if the information is no longer about an identifiable individual or an individual who is reasonaly identifiable".  De-identified information is no longer considered personal information and can be shared. More information on the Commomwealth Privacy Act can be located at https://www.legislation.gov.au/Details/C2016C00979
 
 *De-identifiying* aims to allow data to be used by others for publishing, shaing and reuse without the possibility of individuals/location being re-identified. It may also be used to protect the location of archoalocial findings, cultural data of location of endanged species.  
