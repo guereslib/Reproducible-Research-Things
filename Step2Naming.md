@@ -1,5 +1,5 @@
-# Step 2
-# Naming Conventions
+### Step 2
+## Naming Conventions
 ---
 ### What is a File Naming Convention?
 
