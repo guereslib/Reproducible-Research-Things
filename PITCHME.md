@@ -36,6 +36,7 @@ Let's look at a few tools we can use to protect our research:
 * Automation
 
 ---?include=Step1Documentation.md
+---
 Let's look at a few tools we can use to protect our research:
 * Documentation
 ### * Naming Conventions
