@@ -1,7 +1,9 @@
 ## Step 3
 ### Folder Structures
 ---
-### Having a standard folder structure can keep your files neat and tidy and save you time looking for data. It can also help if you are sharing files with a colleague and there's a standard place to put working data or documentation.
+### Having a standard folder structure can keep your files neat and tidy and save you time looking for data.
+---
+It can also help if you are sharing files with a colleague and there's a standard place to put working data or documentation.
 ---
 ### Beginner
 
