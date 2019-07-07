@@ -22,23 +22,23 @@ Any identifiers (name, date of birth, address or geospatial locations etc) shoul
 
 ## Tips for managing de-identificatioin (ARDC)
 
-• Plan de-identification early in the research as part of your data management planning
-• Retain original unedited versions of data for use within the research team and for preservation
-• Create a de-identification log of all replacements, aggregations or removals made
-• Store the log separately from the de-identified data files
-• Identify replacements in text in a meaningful way, e.g. in transcribed interviews indicate replaced text with [brackets] or use XML markup tags e.g. <anon>.....</anon>
+* Plan de-identification early in the research as part of your data management planning
+* Retain original unedited versions of data for use within the research team and for preservation
+* Create a de-identification log of all replacements, aggregations or removals made
+* Store the log separately from the de-identified data files
+* Identify replacements in text in a meaningful way, e.g. in transcribed interviews indicate replaced text with [brackets] or use XML markup tags e.g. <anon>.....</anon>
 
 ## Management of identifiable data (ARDC)
 Data may often need to be identifiable (i.e. contains personal information) during the process of research, e.g. for analysis. If data is identifiable then ethical and privacy requirements can be met through *access control and data security*. This may take the form of:
 
-• Control of access through physical or digital means (e.g. passwords)
-• Encryption of data, particularly if it is being moved between locations
-• Ensuring data is not stored in an identifiable and unencrypted format when on easily lost items such as USB keys, laptops and external hard drives.
-• Taking reasonable actions to prevent the inadvertent disclosure, release or loss of sensitive personal information.
+* Control of access through physical or digital means (e.g. passwords)
+* Encryption of data, particularly if it is being moved between locations
+* Ensuring data is not stored in an identifiable and unencrypted format when on easily lost items such as USB keys, laptops and external hard drives.
+* Taking reasonable actions to prevent the inadvertent disclosure, release or loss of sensitive personal information.
 
 ## Safely sharing sensitive data guide (ARDC)
 * https://www.ands.org.au/working-with-data/sensitive-data/sharing-sensitive-data
 
 * ANDS' De-identification Guide collates a selection of Australian and international practical guidelines and resources on how to de-identify datasets. It is intended for those who own a dataset and want to de-identify it for the purpose of sharing or publishing the data. https://www.ands.org.au/__data/assets/pdf_file/0003/737211/De-identification.pdf 
-
-#### Australian National Data Service. (2018). ANDS guide: De-identification.  Retrieved from https://www.ands.org.au/__data/assets/pdf_file/0003/737211/De-identification.pdf
+Atributon: 
+Australian National Data Service. (2018). ANDS guide: De-identification.  Retrieved from https://www.ands.org.au/__data/assets/pdf_file/0003/737211/De-identification.pdf
