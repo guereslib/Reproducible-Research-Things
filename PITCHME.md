@@ -9,7 +9,8 @@ template: invert
 ---
 
 ---?include=Step1Documentation.md&lang=md
-
+---
+---?markdown=Step1Documentation.md&lang=md
 
 Lets include
 @code[c span-20](Step1Documentation.md)
