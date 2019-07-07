@@ -18,12 +18,11 @@ template: invert
 Reflections by authors who had discovered they had made a mistake:
 https://dynamicecology.wordpress.com/2016/12/02/on-finding-errors-in-ones-published-analyses/
 http://ecoevoevoeco.blogspot.com/2016/12/wrong-lot.html
+---
 
+Retracted [Image analysis paper](https://retractionwatch.com/2013/08/26/when-1-equals-2-the-result-is-a-retraction/)
 
-Retracted Image analysis paper
-https://retractionwatch.com/2013/08/26/when-1-equals-2-the-result-is-a-retraction/
-
-Where a cancer study was withdrawn by the Authors because they had lost the original data https://retractionwatch.com/2016/09/19/author-to-retract-2016-cancer-study-because-of-missing-data/
+Where a cancer study was withdrawn by the Authors [because they had lost the original data ](https://retractionwatch.com/2016/09/19/author-to-retract-2016-cancer-study-because-of-missing-data/)
 
 It happens locally too:
 https://www.brisbanetimes.com.au/politics/queensland/queensland-universities-eyed-in-fraud-probe-20190509-p51lrj.html
