@@ -8,7 +8,7 @@ template: invert
 # test
 ---
 
----?include=Step1Documentation.md
+---?include=Step1Documentation.md&lang=md
 
 
 Lets include
@@ -16,7 +16,7 @@ Lets include
 ---
 @code[c zoom-99](Step1Documentation.md)
 ---
----?code=Step1Documentation.md
+---?code=Step1Documentation.md&lang=md
 @[1-5]
 @[6-10]
 ---
