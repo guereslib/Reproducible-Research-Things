@@ -91,6 +91,7 @@ Let's look at a few tools we can use to protect our research:
 ### Great! 
 ### By implementing these steps, we've already improved our processes!
 
+Now if someone leaves our lab, we're covered!
 ---
 Next Scenerio....
 ---
