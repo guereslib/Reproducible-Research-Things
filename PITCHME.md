@@ -5,27 +5,10 @@ template: invert
 
 
 
-# test
----
----?include=Step1Documentation/PITCHME.md
+# Reproducible Research
+### Julie Toohey and Amanda Miotto
+@JulieToohey and @AmandaMiottoGU
+Griffith University
 ---
 test2
 ---?include=Step1Documentation.md
-
----?includerelative=Step1Documentation.md&lang=md
----?include_relative=Step1Documentation.md&lang=md
----?relative=Step1Documentation.md&lang=md
-
----
----?markdown=Step1Documentation.md&lang=md
-
-Lets include
-@code[c span-20](Step1Documentation.md)
----
-@code[c zoom-99](Step1Documentation.md)
----
----?code=Step1Documentation.md&lang=md
-@[1-5]
-@[6-10]
----
-Thanks
