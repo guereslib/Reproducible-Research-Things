@@ -12,12 +12,16 @@ template: invert
 ---
 ### What is Reproducible Research?
 ---
----?image=https://thenib.imgix.net/usq/a81ad36e-ecfe-46e2-9710-ab4d77d97a09/repeat-after-me-004-c4c849.jpeg?auto=compress,format&cs=srgb&_=c4c849d384ad0133aa48b2df82d0ec39
+
+![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/repeat-after-me-004-c4c849.jpeg)
 Notes: https://thenib.com
 ---
----?image=https://www.nature.com/news/polopoly_fs/7.36718.1464174471!/image/reproducibility-graphic-online3.jpg_gen/derivatives/landscape_630/reproducibility-graphic-online3.jpg
----
 ### Why is it Important?
+---
+![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/reproducibility-graphic-online3.jpg)
+Notes: https://www.nature.com/news/polopoly_fs/7.36718.1464174471!/image/reproducibility-graphic-online3.jpg_gen/derivatives/landscape_630/reproducibility-graphic-online3.jpg
+---
+
 ---
 
 Extracts from Retraction Watch (Australian papers)
@@ -35,8 +39,7 @@ In March, 2013, a graduate student joined the lab of a prominent researcher in A
 Reflections by authors who had discovered they had made a mistake:
 https://dynamicecology.wordpress.com/2016/12/02/on-finding-errors-in-ones-published-analyses/
 http://ecoevoevoeco.blogspot.com/2016/12/wrong-lot.html
----
----?image=https://www.nature.com/news/polopoly_fs/7.36718.1464174471!/image/reproducibility-graphic-online3.jpg_gen/derivatives/landscape_630/reproducibility-graphic-online3.jpg
+
 
 ---
 ### Today we are going to learn 9 lessons to safeguard us against these situations
@@ -54,7 +57,10 @@ Would you know where all your data is stored?
 Could you keep running effectively for 1 month? 
 
 1 year?
-
+---
+![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/376c2ff9d8260fa7c1ae4a3468e1bce9.jpg)
+Notes:
+Image from the Upturned Microscope
 ---
 Let's look at a few tools we can use to protect our research:
 ### Documentation
@@ -62,8 +68,6 @@ Let's look at a few tools we can use to protect our research:
 * Folder Structures
 * Automation
 * Version Control
----
----?image=https://s29877.pcdn.co/wp-content/uploads/2019/02/real-vs-movie-scientists-4.png.webp
 ---
 ---?include=Step1Documentation.md
 ---
