@@ -43,7 +43,12 @@ Which when applied, would look like this below
 Some characters may have special meaning to the operating system so avoid using these characters when you are naming files. These characters include the following: / \ " ' * ; - ? [ ] ( ) ~ ! $ { } &lt > # @ & | space tab newline https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/filename_conv.htm
 --- 
 ### Beginner
-Let's look at some easy naming convention for your data files and documents. Any dates are best stored with YYYY-MM-DD. Try to avoid spaces in your file names 
+Let's look at some easy naming convention for your data files and documents. 
+Any dates are best stored with YYYY-MM-DD. 
+Try to avoid spaces in your file names 
+---
+### Intermediate
+Make sure you follow 13 Rules for file naming conventions  https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions
 ---
 ### Advanced
 Do you have a policy in your team around naming conventions? If not, this is a great way of getting everyone on the same page 
