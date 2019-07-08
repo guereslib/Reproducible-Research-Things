@@ -1,7 +1,7 @@
 ### Step 9
 ### Digital Object Identifier (DOI) and Persistent identifier (PiD)  
 ---
-# Once you've completed your project, help make your research data discoverable, accessible and possibly re-useable using a PiD such as a DOI!
+## Once you've completed your project, help make your research data discoverable, accessible and possibly re-useable using a PiD such as a DOI!
 ---
 A Digital Object Identifier (DOI) is a unique alphanumeric string assigned by either a publisher, organisation or agency that identifies content and provides a PERSISTENT link to its location on the internet, whether the object is digital or physical. It might look something like this http://dx.doi.org/10.4225/01/4F8E15A1B4D89. The DOI or the *Identifier* is listed at the bottom of this record from Griffiths' Research Data Repository.
 ---
