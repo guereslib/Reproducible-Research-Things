@@ -6,7 +6,7 @@
 # Doc: https://gitpitch.com/docs/settings/theme
 #
 theme : template
-theme-background : [ "black" ]
+theme-background : [ "#262626" ]
 theme-headline   : [ "Ubuntu", "#fff3ad", "none" ]
 theme-byline     : [ "Ubuntu", "#C0C0C0", "none" ]
 theme-text       : [ "Ubuntu", "#F5FFFA", "none" ]
