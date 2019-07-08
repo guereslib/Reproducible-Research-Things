@@ -68,7 +68,7 @@ Let's look at a few tools we can use to protect our research:
 * Folder Structures
 * Automation
 * Version Control
----
+
 ---?include=Step1Documentation.md
 ---
 Let's look at a few tools we can use to protect our research:
