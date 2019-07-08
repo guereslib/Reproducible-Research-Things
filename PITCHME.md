@@ -189,6 +189,8 @@ Amazing! We have so many new skills!
 ---
 What changes are you going to make?
 ---
----?image=https://thenib.imgix.net/usq/08217d6c-a0b9-49d6-b3f2-7f0725c90aa9/repeat-after-me-50-3a3504.jpeg?auto=compress,format&cs=srgb&_=3a3504c217fd5099ed2be7861422a6fd
+![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/repeat-after-me-50-3a3504.jpeg)
+Note:
+the nib.com Repeat after me comic
 ---
 Thank you for coming!
