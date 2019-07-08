@@ -3,8 +3,8 @@
 ---
 ### Having a standard folder structure can keep your files neat and tidy and save you time looking for data.
 
-Like files, folders too can follow a naming convention. By prefixing with numbers, you can force your files to be ordered by the steps in your workflow. Probably the simplest way to document your structure - for your future reference - is to add a “README” file - a text file outlining the contents of the folder.
-
+Like files, folders too can follow a naming convention. By prefixing with numbers, you can force your files to be ordered by the steps in your workflow. Probably the simplest way to document your structure - for your future reference - is to add a “README” file - a text file outlining the contents of the folder. Please see example: 
+https://github.com/guereslib/Reproducible-Research-Things/blob/master/images/Folder%20Structure%20Graphic_%20Step%203%20Line%207.pptx
 ---
 It can also help if you are sharing files with a colleague and there's a standard place to put working data or documentation.
 ---
