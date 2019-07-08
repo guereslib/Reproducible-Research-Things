@@ -24,8 +24,6 @@ Note:
 https://www.nature.com/news/polopoly_fs/7.36718.1464174471!/image/reproducibility-graphic-online3.jpg_gen/derivatives/landscape_630/reproducibility-graphic-online3.jpg
 ---
 
----
-
 Extracts from Retraction Watch (Australian papers)
 ---
 A paleontology journal has retracted a recent paper after discovering it had published the uncorrected version of the manuscript.
