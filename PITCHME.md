@@ -126,7 +126,11 @@ Let's look at a few tools we can use to protect our research:
 * Backing up to the cloud
 * Computer Security
 * Deidentifying your data
-
+---
+![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/phd103003s.gif)
+Note:
+PHDcomics
+---
 ---?include=Step6CloudBackup.md
 --- 
 Let's look at a few tools we can use to protect our research:
@@ -153,6 +157,10 @@ Now let's look at after a project has finished
 Next Scenario....
 ---
 ### Someone has published contradicting results to your published paper, and you've been asked to provide your data and methods. Could you?
+---
+![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/pphd031214s.png)
+Note:
+PHDcomics
 ---
 We're already covered some things that can help us
 ---
