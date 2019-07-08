@@ -11,9 +11,9 @@ A File Naming Convention (FNC) is a framework or protocol if you like for naming
 ### What are the benefits of using a file naming convention? 
 Naming files consistently, logically and in a predictable manner will prevent against unorganised files, misplaced or lost data.  It could also prevent possible backlogs or project delays.  A file naming convention will ensure files are:
 ---
-* Easier to proces - All team members won't have to over think the file naming process 
+* Easier to process - All team members won't have to over think the file naming process 
 * Easier to facilitate access, retrieval and storage of files
-* Easier to browse throough files saving time and effort 
+* Easier to browse through files saving time and effort 
 * Harder to lose!
 ---
 * Having logical and known naming conventions in place can also help you with version control (See step 5 Version Control for more information).
@@ -25,13 +25,13 @@ The University of Edinburgh has a comprehensive and easy to follow list (with ex
 Former PhD student and subsequent founder of the Figshare platform, Mark Hahnel, typified a common challenge: *‘During my PhD I was never good at managing my research data. I had so many different file names for my data that I always struggled to find the correct file quickly and easily when it was requested. My former PI was so horrified upon seeing the state of my data organisation that she held an emergency lab book meeting with the rest of my group when l was leaving’*. Research Information, April/May 2014  
 ---
 Your research team should agree on the following elements of a file name prior to data collection:
-* Vocabulary -  choose a standard vocabulary for file names, so that everyone uses a common language
+* Vocabulary - choose a standard vocabulary for file names, so that everyone uses a common language
 * Punctuation - decide when to use punctuation symbols, capitals and hyphens
 * Dates - agree on a logical use of dates so that they display chronologically i.e. YYYY-MM-DD
 * Order - confirm which element should go first, so that files on the same theme are listed together and can therefore be found easily
 * Numbers - specify the amount of digits that will be used in numbering so that files are listed numerically e.g. 01, 002, etc.
 ---
-As peviously suggested, consistent and meaningful naming of files and folders can make everyone’s life easier.  See this example below:
+As previously suggested, consistent and meaningful naming of files and folders can make everyone’s life easier.  See this example below:
 YYYYMMDD_SiteA_SensorB.CSV
  Date  Location   Sensor
 Which when applied, would look like this below
