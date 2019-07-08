@@ -3,7 +3,7 @@
 ### Documentation
 
 ---
-Documention is the idea of documenting your procedures are for your experiment so that an outsider could understand the workings of your lab. 
+Documentation is the idea of documenting your procedures for your experiment so that an outsider could understand the workings of your lab. 
 ---
 This can include where your results and working data are saved. Copy your lab notebook if you have one onto a digital format and save it to a safe place (such as research storage). 
 
