@@ -5,7 +5,7 @@
 
 Like files, folders can also follow a naming convention. By prefixing with numbers, you can force your files to be ordered by the steps in your workflow. Probably the simplest way to document your structure - for your future reference - is to add a “README” file - a text file outlining the contents of the folder. 
 ---
-[Please see below an image of what a folder structure might look like](images/Folderstructure.PNG)
+![Please see below an image of what a folder structure might look like](images/Folderstructure.PNG)
 ---
 To develop a logical structure for your team, you need to consider the following points:
 * Check to make sure there are no pre-existing folder structure agreements
