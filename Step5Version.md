@@ -38,7 +38,7 @@ If you are writing scripts (R/Python/Matlab etc), use Git.
 Note:
 Griffith has a gitlab version you can use for private repositories. Also record the version of R/Python/Matlab, the operating system you are using and the version numbers of any library you are using.<br/>If you are using the HPC, also record the version of any modules you used there. 
 ---
-### SUPER Advances
+### SUPER Advanced
 If you’ve heard of Docker or Singularity and you are interested, come talk to hacky hour/eResearch Services
 ---
 
