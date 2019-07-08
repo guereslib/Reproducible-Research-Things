@@ -14,12 +14,14 @@ template: invert
 ---
 
 ![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/repeat-after-me-004-c4c849.jpeg)
-Notes: https://thenib.com
+Note:
+https://thenib.com
 ---
 ### Why is it Important?
 ---
 ![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/reproducibility-graphic-online3.jpg)
-Notes: https://www.nature.com/news/polopoly_fs/7.36718.1464174471!/image/reproducibility-graphic-online3.jpg_gen/derivatives/landscape_630/reproducibility-graphic-online3.jpg
+Note:
+https://www.nature.com/news/polopoly_fs/7.36718.1464174471!/image/reproducibility-graphic-online3.jpg_gen/derivatives/landscape_630/reproducibility-graphic-online3.jpg
 ---
 
 ---
@@ -59,7 +61,7 @@ Could you keep running effectively for 1 month?
 1 year?
 ---
 ![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/376c2ff9d8260fa7c1ae4a3468e1bce9.jpg)
-Notes:
+Note:
 Image from the Upturned Microscope
 ---
 Let's look at a few tools we can use to protect our research:
