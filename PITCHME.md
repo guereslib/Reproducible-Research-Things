@@ -158,7 +158,7 @@ Next Scenario....
 ---
 ### Someone has published contradicting results to your published paper, and you've been asked to provide your data and methods. Could you?
 ---
-![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/pphd031214s.png)
+![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/phd031214s.png)
 Note:
 PHDcomics
 ---
