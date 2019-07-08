@@ -12,21 +12,34 @@ template: invert
 ---
 ### What is Reproducible Research?
 ---
+---?image=https://thenib.imgix.net/usq/a81ad36e-ecfe-46e2-9710-ab4d77d97a09/repeat-after-me-004-c4c849.jpeg?auto=compress,format&cs=srgb&_=c4c849d384ad0133aa48b2df82d0ec39
+Notes: https://thenib.com
+---
+---?image=https://www.nature.com/news/polopoly_fs/7.36718.1464174471!/image/reproducibility-graphic-online3.jpg_gen/derivatives/landscape_630/reproducibility-graphic-online3.jpg
+---
 ### Why is it Important?
 ---
 
+Extracts from Retraction Watch (Australian papers)
+---
+A paleontology journal has retracted a recent paper after discovering it had published the uncorrected version of the manuscript.
+
+The mistake occurred after the 
+### authors submitted revisions to the manuscript without tracking the changes, 
+prompting the publisher to believe nothing had been changed and publishing the previous version. The journal initially told the authors it planned to publish an erratum that described the mistake as a production error, but then retracted the paper—seemingly without consulting the authors. However, the authors said they were happy with the outcome.
+---
+### A grad student was caught in the crossfire of fraud — and fought back
+In March, 2013, a graduate student joined the lab of a prominent researcher in Australia...
+
+----
 Reflections by authors who had discovered they had made a mistake:
 https://dynamicecology.wordpress.com/2016/12/02/on-finding-errors-in-ones-published-analyses/
 http://ecoevoevoeco.blogspot.com/2016/12/wrong-lot.html
 ---
+---?image=https://www.nature.com/news/polopoly_fs/7.36718.1464174471!/image/reproducibility-graphic-online3.jpg_gen/derivatives/landscape_630/reproducibility-graphic-online3.jpg
 
-Retracted [Image analysis paper](https://retractionwatch.com/2013/08/26/when-1-equals-2-the-result-is-a-retraction/)
-
-Where a cancer study was withdrawn by the Authors [because they had lost the original data ](https://retractionwatch.com/2016/09/19/author-to-retract-2016-cancer-study-because-of-missing-data/)
-
-It happens locally too:
-https://www.brisbanetimes.com.au/politics/queensland/queensland-universities-eyed-in-fraud-probe-20190509-p51lrj.html
-
+---
+### Today we are going to learn 9 lessons to safeguard us against these situations
 ---
 
 ### Let's look at some scenerios....
@@ -49,7 +62,9 @@ Let's look at a few tools we can use to protect our research:
 * Folder Structures
 * Automation
 * Version Control
-
+---
+---?image=https://s29877.pcdn.co/wp-content/uploads/2019/02/real-vs-movie-scientists-4.png.webp
+---
 ---?include=Step1Documentation.md
 ---
 Let's look at a few tools we can use to protect our research:
@@ -161,5 +176,7 @@ Turns out, we can!
 Amazing! We have so many new skills!
 ---
 What changes are you going to make?
+---
+---?image=https://thenib.imgix.net/usq/08217d6c-a0b9-49d6-b3f2-7f0725c90aa9/repeat-after-me-50-3a3504.jpeg?auto=compress,format&cs=srgb&_=3a3504c217fd5099ed2be7861422a6fd
 ---
 Thank you for coming!
