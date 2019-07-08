@@ -1,12 +1,21 @@
 ## Step 3
 ### Folder Structures
 ---
-### Having a standard folder structure can keep your files neat and tidy and save you time looking for data.
+## Having a standard folder structure can keep your files neat and tidy and save you time looking for data.  It can also help if you are sharing files with colleagues and having a standard place to put working data and documentation.
 
-Like files, folders too can follow a naming convention. By prefixing with numbers, you can force your files to be ordered by the steps in your workflow. Probably the simplest way to document your structure - for your future reference - is to add a “README” file - a text file outlining the contents of the folder. Please see example: 
+Like files, folders can also follow a naming convention. By prefixing with numbers, you can force your files to be ordered by the steps in your workflow. Probably the simplest way to document your structure - for your future reference - is to add a “README” file - a text file outlining the contents of the folder. 
+---
+Please see below an image of what a folder structure might look like: 
 https://github.com/guereslib/Reproducible-Research-Things/blob/master/images/Folder%20Structure%20Graphic_%20Step%203%20Line%207.pptx
 ---
-It can also help if you are sharing files with a colleague and there's a standard place to put working data or documentation.
+To develop a logical structure for your team, you need to consider the following points:
+* Check to make sure there are no pre-existing folder structure agreements
+* Name folders appropriately and in a meaningful manner. Don't use staff names and consider using the type of work
+* Consistency - make sure you use the agreed structure/hierarchy 
+* Structure folders hierarchically - start with a limited number of folders for the broader topics, and then create more specific folders within these
+* Separate ongoing and completed work - as you start to create lots of folders and files, it is a good idea to start thinking about separating your older documents from those you are currently working on
+* Backup – ensure folders and files are backed up and retrievable in the event of a disaster. Griffith like most universities, have safe storage solutions.
+* Clean up folders and files post project.
 ---
 ### Beginner
 Pick a dataset and illustrate how you currently organise your files.
