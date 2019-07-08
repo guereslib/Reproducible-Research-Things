@@ -47,5 +47,5 @@ Data may often need to be identifiable (i.e. contains personal information) duri
 * ANDS' De-identification Guide collates a selection of Australian and international practical guidelines and resources on how to de-identify datasets.  
 ---
 Attributon: 
-Australian National Data Service. (2018). ANDS guide: De-identification.  Retrieved from https://www.ands.org.au/__data/assets/pdf_file/0003/737211/De-identification.pdf
-Australian National Data Service. (2018). Safely sharing sensitive data. (2018). Retrived from https://www.ands.org.au/working-with-data/sensitive-data/sharing-sensitive-data  
+* Australian National Data Service. (2018). ANDS guide: De-identification.  Retrieved from https://www.ands.org.au/__data/assets/pdf_file/0003/737211/De-identification.pdf
+* Australian National Data Service. (2018). Safely sharing sensitive data. (2018). Retrived from https://www.ands.org.au/working-with-data/sensitive-data/sharing-sensitive-data  
