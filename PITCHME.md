@@ -130,7 +130,7 @@ Let's look at a few tools we can use to protect our research:
 ![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/phd103003s.gif)
 Note:
 PHDcomics
----
+
 ---?include=Step6CloudBackup.md
 --- 
 Let's look at a few tools we can use to protect our research:
