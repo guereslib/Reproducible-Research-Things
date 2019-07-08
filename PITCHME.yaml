@@ -6,13 +6,22 @@
 # Doc: https://gitpitch.com/docs/settings/theme
 #
 theme : template
-theme-headline   : [ "Raleway", "#941414", "none" ]
+theme-background : [ "black" ]
+theme-headline   : [ "Ubuntu", "#941414", "none" ]
+theme-byline     : [ "Ubuntu", "#C0C0C0", "none" ]
+theme-text       : [ "Ubuntu", "#F5FFFA", "none" ]
+theme-links      : [ "#E27924", "#FF851B" ]
+theme-code       : [ "Fira Code" ]
+theme-controls   : [ "#C0C0C0" ]
+theme-margins    : [ "0", "5px" ]
+
+highlight        : ir-black
 
 #
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
 #
-theme-override: assets/css/PITCHME.css
+# theme-override: assets/css/PITCHME.css
 
 #
 # Logo Setting
