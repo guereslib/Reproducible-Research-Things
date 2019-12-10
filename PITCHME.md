@@ -30,7 +30,7 @@ A paleontology journal has retracted a recent paper after discovering it had pub
 
 The mistake occurred after the 
 ### authors submitted revisions to the manuscript without tracking the changes, 
-prompting the publisher to believe nothing had been changed and publishing the previous version. The journal initially told the authors it planned to publish an erratum that described the mistake as a production error, but then retracted the paper—seemingly without consulting the authors. However, the authors said they were happy with the outcome.
+prompting the publisher to believe nothing had been changed and publishing the previous version.
 ---
 ### A grad student was caught in the crossfire of fraud — and fought back
 In March, 2013, a graduate student joined the lab of a prominent researcher in Australia...
