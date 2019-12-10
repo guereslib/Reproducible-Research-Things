@@ -5,30 +5,13 @@
 ---
 Keeping a copy of all your data (working, raw and completed) in the cloud is incredbilty important. This ensures that if you have a computer failure, accidently delete your data or your data is corrupted, your research is restorable. 
 ---
-Griffith has three different types of cloud storage made especially for research
----
-#### [Research Drive](https://research-storage.griffith.edu.au/drive/)
+### The 3-2-1 backup rule
 
-This would be a good place for your day-to-day working files. It is unlimited and you can share it with people at Griffith (but not externally). This works the same as G drive.
-
----
-#### [Research Space](https://research-storage.griffith.edu.au/space/manual/)
-
-This has a ‘sync’ client that automatically copies your files from your computer to the cloud- just like dropbox or google drive. 
-You can use this to share with people external to the university. You can add them with a Linkedin profile, Griffith, other university or Gmail account, or you can share with a URL, password and expiry date. This is also unlimited storage- you are given 5GB initially, and to add an unlimited folder, just click ‘Add more storage’. 
-
----
-#### [Research Vault](https://research-storage.griffith.edu.au/vault/)
-
-For your long term backups. Perfect place to store a safe copy of your raw data or the research of your PhD student who has completed and is leaving the institute.
----
-
-#### Not sure which one is best? [Click here](https://research-storage.griffith.edu.au/compare)
-
+The rule is: keep at least three (3) copies of your data, and store two (2) backup copies on different storage media, with one (1) of them located offsite
 ---
 ### Beginner
 
-Get your data into Research Storage - If you need help picking one, talk to the library or eResearch Support 
+Get your data into Cloud Storage - If you need help, talk to the library or your tech/eResearch/QCIF Support 
 ---
 ### Advanced
 
