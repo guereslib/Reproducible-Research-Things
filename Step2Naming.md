@@ -55,7 +55,7 @@ Do you have a policy in your team around naming conventions? If not, this is a g
 
 ---
 ### Internal Resources
-* Talk to your Research Support Services librarian at library@griffith.edu.au
+* Talk to your Research Support Services librarian
 ---
 
 ### External Resources
