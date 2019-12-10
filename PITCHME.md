@@ -5,7 +5,7 @@ template: invert
 
 
 
-## Reproducible Research
+## 9 Reproducible Research things
 
 #### @AmandaMiottoGU and @JulieToohey
 #### Griffith University
