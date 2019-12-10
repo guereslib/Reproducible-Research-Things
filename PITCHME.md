@@ -167,9 +167,7 @@ We're already covered some things that can help us
 * Storing our data in the cloud
 * Documentation
 * Versions of software
----
-New tool
-### Digital Object Identifier (DOI) and Persistent identifier (PiD)
+
 ---?include=Step9Identifiers.md
 ---
 Wow, that's 9 Reproducible Research things! 
