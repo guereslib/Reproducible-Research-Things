@@ -38,12 +38,7 @@ Ideally you want to document anything that a lab member coming on board would ne
 ---
 ### Advanced
 * Now that you've got a good head start, time to learn about Git Repositories and wikis.  
----
-### Internal Resources
-* Wiki options at Griffith
-* Wiki or using the documents in Teams
-* [Research Space](https://research-storage.griffith.edu.au/)
-* Griffith's Gitlab wiki options - talk to eResearch Support or Hacky Hour
+
 ---
 ### External Resources
 [British Ecology Reproducibility Book](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
