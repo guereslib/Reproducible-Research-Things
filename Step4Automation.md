@@ -8,6 +8,8 @@ Often, tasks that need to be done over and over again by a human can be opportun
 ### Beginner
 Let's thing about the repetitive tasks that you could automate- do you always rename files the same way? Do you manually copy files across?
 ---
+![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/automationexample.jpg)
+---
 ### Advanced
 Could you code up your work so its completely automated? 
 ---
