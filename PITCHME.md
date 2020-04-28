@@ -5,7 +5,7 @@ template: invert
 
 
 
-## 9 Reproducible Research things
+## Reproducible Research
 
 #### @AmandaMiottoGU and @JulieToohey
 #### Griffith University
@@ -30,7 +30,7 @@ A paleontology journal has retracted a recent paper after discovering it had pub
 
 The mistake occurred after the 
 ### authors submitted revisions to the manuscript without tracking the changes, 
-prompting the publisher to believe nothing had been changed and publishing the previous version.
+prompting the publisher to believe nothing had been changed and publishing the previous version. The journal initially told the authors it planned to publish an erratum that described the mistake as a production error, but then retracted the paper—seemingly without consulting the authors. However, the authors said they were happy with the outcome.
 ---
 ### A grad student was caught in the crossfire of fraud — and fought back
 In March, 2013, a graduate student joined the lab of a prominent researcher in Australia...
@@ -167,7 +167,9 @@ We're already covered some things that can help us
 * Storing our data in the cloud
 * Documentation
 * Versions of software
-
+---
+New tool
+### Digital Object Identifier (DOI) and Persistent identifier (PiD)
 ---?include=Step9Identifiers.md
 ---
 Wow, that's 9 Reproducible Research things! 
