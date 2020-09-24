@@ -56,3 +56,5 @@ Ideally you want to document anything that a lab member coming on board would ne
 
 [Home](https://guereslib.github.io/Reproducible-Research-Things/)    [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step2Naming)
 
+
+{% include footer.html %}
