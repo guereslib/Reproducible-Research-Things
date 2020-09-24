@@ -1,3 +1,8 @@
+---
+title: Step 7 - Computer Security
+nav: true
+---
+
 ### Step 7
 ## Computer Security
 
