@@ -1,3 +1,8 @@
+---
+title: Step 2 - Naming
+nav: true
+---
+
 ### Step 2
 ## Naming Conventions
 
