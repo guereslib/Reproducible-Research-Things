@@ -1,3 +1,8 @@
+---
+title: Step 4 - Automation
+nav: true
+---
+
 ### Step 4
 ## Automation
 ---
