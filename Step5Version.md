@@ -1,3 +1,8 @@
+---
+title: Step 5 - Version Control
+nav: true
+---
+
 ### Step 5
 ## Version Control
 ---
