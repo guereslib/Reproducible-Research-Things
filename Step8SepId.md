@@ -1,3 +1,8 @@
+---
+title: Step 8 - Separating Ids
+nav: true
+---
+
 ### Step 8
 ## Separating identifying variables from your data
 
