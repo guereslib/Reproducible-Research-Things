@@ -1,3 +1,9 @@
+---
+title: Step 3 - Folder Structure
+nav: true
+---
+
+
 ## Step 3
 ### Folder Structures
 
