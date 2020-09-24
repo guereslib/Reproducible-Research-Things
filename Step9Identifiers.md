@@ -1,3 +1,8 @@
+---
+title: Step 9 - Identifiers
+nav: true
+---
+
 ### Step 9
 ### Digital Object Identifier (DOI) and Persistent identifier (PiD)  
 
