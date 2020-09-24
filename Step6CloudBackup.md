@@ -1,3 +1,9 @@
+---
+title: Step 6 - Cloud backups
+nav: true
+---
+
+
 ### Step 6
 ## Cloud Storage of your Data
 ---
