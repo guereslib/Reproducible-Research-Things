@@ -1,3 +1,8 @@
+---
+title: Documentation
+nav: true
+---
+
 ### Step 1
 
 ### Documentation
