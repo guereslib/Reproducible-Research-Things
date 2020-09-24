@@ -41,4 +41,4 @@ Come up with a policy for your group for folder structures. You could create a t
 * [Learn more from http://nikola.me/](http://nikola.me/folder_structure.html)
 * [Here's one you are welcome to download and use URL](https://github.com/guereslib/MyResearchProjects/archive/master.zip)
 
-[Home](https://guereslib.github.io/Reproducible-Research-Things/) [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step3Naming)
+[Home](https://guereslib.github.io/Reproducible-Research-Things/) [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step4Naming)
