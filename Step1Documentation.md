@@ -52,3 +52,5 @@ Ideally you want to document anything that a lab member coming on board would ne
 
 [Software Carpentry Git Workshop](https://swcarpentry.github.io/git-novice/)
 
+[Home](https://guereslib.github.io/Reproducible-Research-Things/)    [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step2Naming)
+
