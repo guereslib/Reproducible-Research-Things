@@ -22,3 +22,5 @@ Ways you can automate things:
 * Win 10- Task scheduler
 * Microsoft flow or Google script
 * Learning to code in Python or R - Talk to your local hacky hour or Software Carpentry people
+
+[Previous](https://guereslib.github.io/Reproducible-Research-Things/Step3FolderStruct) | [Home](https://guereslib.github.io/Reproducible-Research-Things/) | [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step5Version)
