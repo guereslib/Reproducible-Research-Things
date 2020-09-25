@@ -58,3 +58,5 @@ If you’ve heard of Docker or Singularity and you are interested, come talk to 
 * [What is git](https://opensource.com/resources/what-is-git)
 * [Reproducibility in SPSS](https://andrewpwheeler.wordpress.com/2012/03/20/making-a-reproducible-example-in-spss/)
 * [Learn Software Carpentry in Git](http://swcarpentry.github.io/git-novice)
+
+[Previous](https://guereslib.github.io/Reproducible-Research-Things/Step4Automation)  |  [Home](https://guereslib.github.io/Reproducible-Research-Things/) | [Next (Page]https://guereslib.github.io/Reproducible-Research-Things/Step6CloudBackup)
