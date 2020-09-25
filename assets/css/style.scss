@@ -3,5 +3,6 @@
 
 
 @import "{{ site.theme }}";
-.markdown-body table { width:100%; border-style: none;}
+.markdown-body table { border-style: hidden;}
+table { border-style: hidden;}
 
