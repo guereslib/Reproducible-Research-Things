@@ -40,4 +40,4 @@ Get your data into Research Storage - If you need help picking one, talk to the 
 
 Build a policy for your team or group on where things are stored. Make sure the location of your data is saved in your documentation 
 
-
+[Previous](https://guereslib.github.io/Reproducible-Research-Things/Step5Version) | [Home](https://guereslib.github.io/Reproducible-Research-Things/)  | [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step7CompSecurity)
