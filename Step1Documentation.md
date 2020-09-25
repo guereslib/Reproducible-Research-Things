@@ -4,7 +4,7 @@ nav: true
 ---
 
 <style>
-table { width:100%; border-style: none;}
+.table { width:100%; border-style: none;}
 </style>
 
 
