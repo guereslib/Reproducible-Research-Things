@@ -59,7 +59,8 @@ Ideally you want to document anything that a lab member coming on board would ne
 
 ## Navigation
 
-[Home](https://guereslib.github.io/Reproducible-Research-Things/)  |  [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step2Naming) |
-
+<div style="border-style: none;padding:2px 4px;"> 
+|[Home](https://guereslib.github.io/Reproducible-Research-Things/)  |  [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step2Naming) |
+</div>
 
 
