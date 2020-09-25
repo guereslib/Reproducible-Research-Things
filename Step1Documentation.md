@@ -3,6 +3,12 @@ title: Step1 - Documentation
 nav: true
 ---
 
+<style>
+table { width:100%; border-style: none;}
+</style>
+
+
+
 ### Step 1
 
 ### Documentation
@@ -59,14 +65,7 @@ Ideally you want to document anything that a lab member coming on board would ne
 
 ## Navigation
 
-<style>
-table {
-    width:100%;
-  border-style: none;
-}
-|[Home](https://guereslib.github.io/Reproducible-Research-Things/)  |  [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step2Naming) |
 
-</style>
 
 |[Home](https://guereslib.github.io/Reproducible-Research-Things/)  |  [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step2Naming) |
 
