@@ -64,6 +64,8 @@ table {
     width:100%;
   border-style: none;
 }
+|[Home](https://guereslib.github.io/Reproducible-Research-Things/)  |  [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step2Naming) |
+
 </style>
 
 |[Home](https://guereslib.github.io/Reproducible-Research-Things/)  |  [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step2Naming) |
