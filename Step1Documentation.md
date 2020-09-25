@@ -59,8 +59,14 @@ Ideally you want to document anything that a lab member coming on board would ne
 
 ## Navigation
 
-<div style="border-style: none;padding:2px 4px;"> 
+<style>
+table {
+    width:100%;
+  border-style: none;
+}
+</style>
+
 |[Home](https://guereslib.github.io/Reproducible-Research-Things/)  |  [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step2Naming) |
-</div>
+
 
 
