@@ -51,3 +51,4 @@ Data may often need to be identifiable (i.e. contains personal information) duri
 Attributon: 
 * Australian National Data Service. (2018). ANDS guide: De-identification.  Retrieved from https://www.ands.org.au/__data/assets/pdf_file/0003/737211/De-identification.pdf
 * Australian National Data Service. (2018). Safely sharing sensitive data. (2018). Retrived from https://www.ands.org.au/working-with-data/sensitive-data/sharing-sensitive-data  
+[Previous](https://guereslib.github.io/Reproducible-Research-Things/Step7CompSecurity) | [Home](https://guereslib.github.io/Reproducible-Research-Things/) | [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step9Identifiers)
