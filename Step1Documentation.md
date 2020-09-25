@@ -3,9 +3,6 @@ title: Step1 - Documentation
 nav: true
 ---
 
-(setq markdown-xhtml-content
-      "<style type ='text/css'> table { width:100%; border-style: none;} </style>")
-
 
 ### Step 1
 
