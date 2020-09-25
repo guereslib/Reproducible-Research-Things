@@ -67,4 +67,4 @@ Do you have a policy in your team around naming conventions? If not, this is a g
 * The University of Edinburgh has a comprehensive yet easy to follow list (with examples and explanations) of 13 Rules for file naming conventions https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions
 * Australian National Data Services (ANDS). (2018). ANDS Guide: File wrangling. Retrieved from https://www.ands.org.au/working-with-data/data-management/file-wrangling 
 
-[Home](https://guereslib.github.io/Reproducible-Research-Things/)     [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step3Naming)
+[Home](https://guereslib.github.io/Reproducible-Research-Things/)  [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step3FolderStruct.html)
