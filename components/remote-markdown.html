@@ -1,0 +1,23 @@
+<link rel="import" href="../bower_components/iron-ajax/iron-ajax.html">
+<link rel="import" href="../bower_components/marked-element/marked-element.html">
+
+<dom-module id="remote-markdown">
+  <template>
+    <iron-ajax auto
+      url="{{url}}"
+      handle-as="text"
+      last-response="{{content}}"></iron-ajax>
+    <marked-element markdown="{{content}}">
+      <content select=".markdown-html"></content>
+    </marked-element>
+  </template>
+  <script>
+  Polymer({
+    is: 'remote-markdown',
+    properties: {
+      url: String,
+      content: String
+    }
+  });
+  </script>
+</dom-module>
