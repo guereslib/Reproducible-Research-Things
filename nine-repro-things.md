@@ -22,7 +22,7 @@ Two examples of filenames using this system:
 
 Create a standard folder structure to keep files organised. This is very helpful when sharing files with colleagues. Folders, like files, should follow a logical naming convention. One tip is to create folders prefixed by number to reflect your workflow steps. Adding a leading zero for numbers 1-9 will ensure folders appear in the right sequence. Create and store a `README.txt` file that explains the contents of the different folders.
 
-![How to organise folders](folder-org.png)
+![How to organise folders](images/folderstructure.jpg)
 
 
 [Read more about the use of folders.](https://guereslib.github.io/Reproducible-Research-Things/Step3FolderStruct)
@@ -54,6 +54,8 @@ Once you have completed your project, make your research data discoverable, acce
 
 This checklist is based on [**9 Reproducible Research Things**](https://guereslib.github.io/Reproducible-Research-Things/), a workshop created jointly by [Griffith University](https://www.griffith.edu.au/)'s [eResearch Services](https://www.griffith.edu.au/eresearch-services) and the [Griffith University Library](https://www.griffith.edu.au/library).
 
+
+#### [Return to home page]([Read more about the use of folders.](https://guereslib.github.io/Reproducible-Research-Things/Step3FolderStruct)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
