@@ -22,7 +22,7 @@ Journal publishers assign DOIs to electronic copies of individual articles. DOIs
 * Resolvable DOIs provide easy online access to research data for discovery, attribution and reuse
 
 ## Beginner
-Ensure data you associate with a publication has a DOI- your library is the best group to talk to for this. 
+Ensure data you associate with a publication has a DOI- Your library is the best group to talk to for this. 
 
 ## Intermediate
 * Learn more about how your DOI can potentially increase your citation rates by watching this 4m:51s video https://www.youtube.com/watch?v=PgqtiY7oZ6k&feature=youtu.be
