@@ -31,7 +31,7 @@ Q3) Someone has published contradicting results to your published paper, and you
 * Keep raw data separate (Research Storage – Vault)
 
 
-Q4) if a research partner organization believes your "sensitive" data has been made available to others (ie a data breach). Could you show that steps were taken to avoid this or show that it couldn't happen?
+Q4) If a research partner organization believes your "sensitive" data has been made available to others (ie a data breach). Could you show that steps were taken to avoid this or show that it couldn't happen?
 
 * research space – tracing who you have shared a file
 * Computer encryption (General good computer safety)
