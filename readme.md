@@ -33,7 +33,7 @@ Q3) Someone has published contradicting results to your published paper, and you
 
 Q4) If a research partner organization believes your "sensitive" data has been made available to others (ie a data breach). Could you show that steps were taken to avoid this or show that it couldn't happen?
 
-* research space – tracing who you have shared a file
+* Research space – tracing who you have shared a file
 * Computer encryption (General good computer safety)
 * General good computer safety – unique passwords and use Multi factor Auth when possible
 * Separating identified variables
