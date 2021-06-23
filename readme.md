@@ -1,4 +1,4 @@
-Reproducible Research lessons
+Reproducible Research Things Lessons
 
 The idea with this workshop/documentation is to help researchers move along the path in reproducibility. It doesn’t take them from 0 – 100 but if they can implement one or two things, it can help them later down the track. The ‘be better than you were yesterday’ idea. 
 
